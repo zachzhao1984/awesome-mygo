@@ -1,0 +1,3683 @@
+{
+ "fetched": "2026-10-25",
+ "framework": "egoist/mygo",
+ "count": 225,
+ "apps": [
+  {
+   "repo": "aouyitanaka/Fsearch-Mygo-GUI",
+   "category": "file",
+   "description": "A native desktop front end for fsearch,",
+   "stars": 1,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-11"
+  },
+  {
+   "repo": "0froq/snip",
+   "category": "prod",
+   "description": "Minimal macOS clipboard manager prototype built with MyGo **native UI** (`ui` package, no webview). Each new plain-text copy spawns a small floating card. Global shortcuts show/hid",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "addidotlol/mycn",
+   "category": "kit",
+   "description": "shadcn/ui-style components for MyGo Native UI.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-20"
+  },
+  {
+   "repo": "bernylinville/seismic",
+   "category": "dev",
+   "description": "macOS 原生 Elasticsearch 客户端，mygo 纯 Go 自绘 native UI。elasticvue 的原生重写，功能对等（13 模块），MIT。",
+   "stars": 0,
+   "license": "NOASSERTION",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-13"
+  },
+  {
+   "repo": "ArnoChenFx/kura",
+   "category": "ai",
+   "description": "Desktop skills manager built with MyGo",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "a8b7/Rubick",
+   "category": "dev",
+   "description": "Docker container management platform with Web UI",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "azzliang6/pomodoro-mygo",
+   "category": "prod",
+   "description": "番茄钟 — a Pomodoro timer built with the pure-Go desktop framework MyGo",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-16"
+  },
+  {
+   "repo": "1e4DouWine/clipboard_go",
+   "category": "file",
+   "description": "一个简单的剪贴板工具。使用 Go 编写，MyGo 框架（Native UI）",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "baoziv587/mygo-template",
+   "category": "kit",
+   "description": "A template for desktop apps with mygo's native UI. It needs only Go (≥ 1.27.1): the tools are pinned in the module and run with `go tool`, so there is no Node to install.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "Alpenl/wallpaper",
+   "category": "media",
+   "description": "跨平台动态壁纸 MVP（Go + MyGo 原生 UI）",
+   "stars": 0,
+   "license": "NOASSERTION",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "auron-labs/mygo-framework",
+   "category": "kit",
+   "description": "This repository is a source-first framework and reference application for",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "Beeta/voxi",
+   "category": "ai",
+   "description": "一个会议录音转译和摘要app，基于mygo原生UI。",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-19"
+  },
+  {
+   "repo": "Binaryify/proxy-bridge",
+   "category": "net",
+   "description": "用 TUN 把全部或选中应用的流量送进 HTTP/HTTPS/SOCKS5 代理的 macOS 菜单栏工具",
+   "stars": 1,
+   "license": "GPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-16"
+  },
+  {
+   "repo": "Binaryify/MyGit",
+   "category": "dev",
+   "description": "Check your agent's changes, fast. A light, native git client for macOS, Windows and Linux, built with MyGo.",
+   "stars": 21,
+   "license": "MIT",
+   "homepage": "https://binaryify.com/mygit/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "biaobiaobiao108/fnmovie",
+   "category": "media",
+   "description": "哞哩影院让找片和继续观看更顺手：登录自己的飞牛影视，按影视库浏览电影与剧集，查看详情，再从上次的进度接着播放。它是一款 Windows x64 原生桌面客户端，界面贴合 Windows 使用习惯，视频由 libmpv 播放。",
+   "stars": 1,
+   "license": null,
+   "homepage": "https://biaobiaobiao108.github.io/fnmovie/",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "blyrin/java-ide",
+   "category": "dev",
+   "description": "MyGo 原生 UI 实现的 Java IDE",
+   "stars": 1,
+   "license": null,
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "CairnPack/Codei18nDesktop",
+   "category": "dev",
+   "description": "Codei18n's graphical user interface window, based on mygo",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "CBR0/calc",
+   "category": "fun",
+   "description": "A Windows 11-style desktop calculator written in pure Go and drawn natively",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-15"
+  },
+  {
+   "repo": "Clearzero22/pi-web-desktop",
+   "category": "ai",
+   "description": "Pi Web Desktop - MyGo shell for pi-web with isolated Node",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-14"
+  },
+  {
+   "repo": "ca-x/nvflasher",
+   "category": "dev",
+   "description": "nvflasher: a MyGo desktop app for flashing and provisioning NVIDIA Jetson devices (Linux flashing backend).",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-12"
+  },
+  {
+   "repo": "cecil-su/mygo-browser",
+   "category": "prod",
+   "description": "Windows browser prototype with Go-native UI, MyGo and WebView2",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-19"
+  },
+  {
+   "repo": "ch1y1z1/xiangqi_go",
+   "category": "fun",
+   "description": "Go + mygo Native UI 象棋残局桌面端，支持本地摆棋、分支研究与离线 Pikafish AI；当前优先适配 macOS。",
+   "stars": 0,
+   "license": "GPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-09"
+  },
+  {
+   "repo": "CarlOpenLab/Gloss",
+   "category": "dev",
+   "description": "Git client built for reviewing diffs: inline risk scan, topology graph, AI commit messages. Pure Go, GPU-rendered, zero WebView. macOS · Windows · Linux.",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "https://carlopenlab.github.io/Gloss/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "Binaryify/MonitorBar",
+   "category": "sys",
+   "description": "macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
+   "stars": 162,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "dandibbert/textrouter",
+   "category": "prod",
+   "description": "",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "dhx007/mygo-dsh",
+   "category": "ai",
+   "description": "DeepSeek Harness 初代复刻 · MyGo 原生 UI：会话/轨迹/四种模式/工具审批/PTC，纯 Go 自绘无 webview",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "Cyenoch/mygoicons",
+   "category": "kit",
+   "description": "Typed Iconify collections and a generator for MyGo native UI. Lazy SVG caching and linker removal of unused icons.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "diver80/avono-timebooking",
+   "category": "prod",
+   "description": "Zeitplanung und Achievo-Buchung für macOS – Woche/Tag/Monat, Jira-Tickets im Funnel, Kalender, Menüleiste (Go + MyGo)",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "egoist/2048",
+   "category": "fun",
+   "description": "2048 game in MyGo native! ",
+   "stars": 0,
+   "license": null,
+   "homepage": "https://2048.egoist.dev",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [],
+   "pushed": "2026-10-12"
+  },
+  {
+   "repo": "DiiKhanh/burrow",
+   "category": "file",
+   "description": "Burrow is a free, open-source macOS app (Apple Silicon) that frees disk space and shows the live health of your Mac.",
+   "stars": 1,
+   "license": "GPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "congthien2003/dbl",
+   "category": "dev",
+   "description": "SBDb brings connection management, database exploration, table inspection, and data editing into a focused desktop workspace. Built with Go and MyGo Native UI, it follows a simple ",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-17"
+  },
+  {
+   "repo": "egoist/godiff",
+   "category": "dev",
+   "description": "Fast native diff viewer",
+   "stars": 123,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-14"
+  },
+  {
+   "repo": "egoist/gorex",
+   "category": "dev",
+   "description": "Rex terminal clone in MyGo native UI",
+   "stars": 143,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-08"
+  },
+  {
+   "repo": "egoist/mygo",
+   "category": "kit",
+   "description": "Develop desktop apps with native UI or web frontend in Go",
+   "stars": 2852,
+   "license": "MIT",
+   "homepage": "https://mygo.egoist.dev",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "Cyenoch/mygoui",
+   "category": "kit",
+   "description": "Native Go UI components for MyGo with a shadcn-inspired style",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "egoist/uma",
+   "category": "prod",
+   "description": "A native menubar app for Umami.is",
+   "stars": 41,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [],
+   "pushed": "2026-10-12"
+  },
+  {
+   "repo": "Eurekaimer/TOUKO",
+   "category": "file",
+   "description": "TOUKO treats image management as tree-oriented repository operations instead of individual file uploads.",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "everpcpc/mica",
+   "category": "editor",
+   "description": "A focused, native Gmail client for macOS.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "Fan-chou/magpie-native-routing",
+   "category": "net",
+   "description": "Magpie Native Routing 是一个独立桌面应用，用于观察 Magpie 的真实路由行为：",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-19"
+  },
+  {
+   "repo": "ELY-Open-Source/MujicaUI",
+   "category": "kit",
+   "description": "Court-gothic components for MyGo native UI",
+   "stars": 12,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "eziq1/golauncher",
+   "category": "prod",
+   "description": "A Raycast-style launcher for Windows and macOS, written in Go with the MyGo native UI toolkit",
+   "stars": 6,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "ELY-Open-Source/8bitMyGoUI",
+   "category": "kit",
+   "description": "16-bit pixel-art UI components for MyGo native Go UI; showcase runs the same Go in the browser via wasm.",
+   "stars": 7,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "fazi-gondal/video",
+   "category": "media",
+   "description": "A feature-rich video player built with the MyGo",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-10"
+  },
+  {
+   "repo": "ELY-Open-Source/CrychicUI",
+   "category": "kit",
+   "description": "1500 components for MyGo native UI, in MyGo's own look, with motion and sound.",
+   "stars": 15,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "enowx/enowx",
+   "category": "ai",
+   "description": "Run Claude Code, Codex and 43 other coding agents in parallel, each on its own branch in its own git worktree, on your machine or your own server. Watch, compare and merge them fro",
+   "stars": 4,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "fazi-gondal/video-downloader-mygo",
+   "category": "media",
+   "description": "Native desktop video downloader built with Go, MyGo, yt-dlp, and FFmpeg. The application analyzes videos and playlists, lets users choose quality, audio, subtitles, and containers, manages downloads in a queue, converts local media, and stores download history.",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "feiniao233/MyCast",
+   "category": "prod",
+   "description": "Windows launcher built with Go/MyGo",
+   "stars": 0,
+   "license": "NOASSERTION",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-14"
+  },
+  {
+   "repo": "firede/mygo-platinum",
+   "category": "kit",
+   "description": "Classic desktop controls for MyGo",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "https://mygo-platinum.firede.com",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "flowprog/png2ico",
+   "category": "dev",
+   "description": "A PNG-to-ICO converter built with [MyGo native](https://github.com/egoist/mygo), with GUI and command-line versions. The entire interface is written in Go. ",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-11"
+  },
+  {
+   "repo": "foyoodo/Cove",
+   "category": "ai",
+   "description": "Cove is a native macOS chat client. It draws its interface with MyGo's `ui` package, not a web view, and it talks to OpenAI-compatible Chat Completions endpoints (`POST {baseURL}/c",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "fondoger/mouse-mapper",
+   "category": "sys",
+   "description": "A quiet mouse side-button remapper for Windows and macOS, built entirely with MyGo Native UI.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "fzn0x/mixmusic",
+   "category": "media",
+   "description": "MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community themes and plugins.",
+   "stars": 110,
+   "license": "MIT",
+   "homepage": "https://fzn0x.github.io/mixmusic/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "freelxs/jstv-player",
+   "category": "media",
+   "description": "macOS player for JSTV/CatPawOpen 猫源 protocol (Go + MyGo)",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "gomeen/Zakki",
+   "category": "prod",
+   "description": "Zakki 是一个 macOS / Windows 桌面速记应用：多个彩色标签各存一段 Markdown，",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "godwit-email/godwit",
+   "category": "editor",
+   "description": "Open-source, hackable AI email client",
+   "stars": 15,
+   "license": "Apache-2.0",
+   "homepage": "https://godwit.email",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "harukizmoe/mayu",
+   "category": "kit",
+   "description": "Material Design 3 (Material You) component library for MyGo's native GPU UI, in pure Go",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-15"
+  },
+  {
+   "repo": "hehehai/AudioSmith",
+   "category": "ai",
+   "description": "Speech, voices, stories, audiobooks, dubbing and transcription, made on your Mac. Free and open source.",
+   "stars": 47,
+   "license": "AGPL-3.0",
+   "homepage": "https://actnow.dev/audiosmith",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "HanlunWang/simple-toggle",
+   "category": "prod",
+   "description": "Turn any script into a managed menu bar switch on macOS",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "https://github.com/HanlunWang/simple-toggle/releases/latest",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-20"
+  },
+  {
+   "repo": "hehehai/Auralink",
+   "category": "ai",
+   "description": "Voice input for macOS on remote models: speak in any app and the text lands at your cursor. Transcribe, translate and rewrite, with your own API keys.",
+   "stars": 0,
+   "license": "AGPL-3.0",
+   "homepage": "https://actnow.dev/auralink",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "hackerlengyue/binggan",
+   "category": "media",
+   "description": "Binggan（饼干大小姐）：基于 MyGo 和 Vue 的本地视频处理工具，支持密钥提取与管理、课程播放编排、批量视频解密和资源管理。",
+   "stars": 2,
+   "license": "GPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-06"
+  },
+  {
+   "repo": "hunghg255/mycode",
+   "category": "dev",
+   "description": "A small, fast code editor written in Go. It draws a native UI on the GPU with",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "https://docs-mu-roan.vercel.app",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "horizon0514/ds-search",
+   "category": "ai",
+   "description": "macOS 菜单栏极简搜索，基于 DeepSeek Search API，MyGo 原生界面",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-19"
+  },
+  {
+   "repo": "henryyu333/shelf",
+   "category": "prod",
+   "description": "A native macOS app built entirely in Go with the MyGo framework",
+   "stars": 51,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "HycJack/mygo-agent",
+   "category": "ai",
+   "description": "A Codex-style desktop AI coding agent built with MyGo — native GPU UI, built-in agent loop, skills and MCP",
+   "stars": 1,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "HycJack/mujicacut",
+   "category": "media",
+   "description": "CapCut-style desktop video editor, GPU-drawn with MyGo + MujicaUI — no WebView, no HTML/JS",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-11"
+  },
+  {
+   "repo": "huynhkinhao1910/scan-image",
+   "category": "file",
+   "description": "Finder và Spotlight tìm rất chậm trên ổ mạng SMB, vì mỗi lần tìm lại phải hỏi server. Scan Image quét cây thư mục một lần, giữ index trong RAM và lưu trên máy, rồi chỉ quét lại nhữ",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-20"
+  },
+  {
+   "repo": "HycJack/mygo-tendedero",
+   "category": "file",
+   "description": "Tendedero screenshot-line app, ported from SwiftUI/AppKit to MyGo (Go)",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "ijry/YoYoCode",
+   "category": "ai",
+   "description": "An native go verison codeg - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "iwangjie/xiangzhuan",
+   "category": "prod",
+   "description": "菜单栏休息提醒：工作到点，全屏燃香；一炷香尽，回到案前。A menu bar break reminder that burns a stick of incense.",
+   "stars": 4,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-19"
+  },
+  {
+   "repo": "ixxxxoooo/ai-usage",
+   "category": "ai",
+   "description": "macOS 菜单栏小工具：查看 Cursor 旧版 500 次请求用量与 DeepSeek 余额/用量（Go + MyGo 原生 UI）",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "j4ckxyz/Aurelia",
+   "category": "media",
+   "description": "A fast, native music player for Jellyfin (macOS, Windows, Linux), built with MyGo",
+   "stars": 2,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-09"
+  },
+  {
+   "repo": "javatoai/sleepdock",
+   "category": "prod",
+   "description": "Native Go and MyGo sleep timer with tray controls",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "javatoai/repodock",
+   "category": "ai",
+   "description": "Native Go and MyGo GitHub project launcher for Codex",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "jyuuroku16/mediago",
+   "category": "media",
+   "description": "A native, high-performance macOS media sniffer and downloader written in Go with MyGo's native UI",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-13"
+  },
+  {
+   "repo": "kiwiflydream/yunji-uml",
+   "category": "editor",
+   "description": "Native macOS editor for PlantUML, Mermaid, and Flowchart.js",
+   "stars": 2,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-07"
+  },
+  {
+   "repo": "jinghaihan/sift",
+   "category": "dev",
+   "description": "Review complete feature branches without unrelated integration changes.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-15"
+  },
+  {
+   "repo": "laojianzi/aster",
+   "category": "dev",
+   "description": "A native Kubernetes workbench built with Go and MyGo Native UI.",
+   "stars": 1,
+   "license": "Apache-2.0",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "jnnbimo/RayDock",
+   "category": "net",
+   "description": "基于 Go 与 MyGo 的 Windows Xray 客户端，支持原生玻璃界面、TUN、代理链与专用端口。 | Windows Xray client built with Go and MyGo, featuring a native glass UI, TUN, proxy chains, and dedicated ports.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "lfcypo/pickphoto",
+   "category": "file",
+   "description": "快捷照片分类整理",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-07"
+  },
+  {
+   "repo": "li-yifei/bdon-mygo",
+   "category": "fun",
+   "description": "BanG Dream! Our Notes 组卡加速器：bdon.moe 组卡工具的桌面版，原生多线程计算＋ADB 一键导入存档到卡池。アツドリのデッキ編成を高速化／セーブデータ取り込み。macOS（Windows 准备中）",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "https://bdon.moe/tools/deck",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "Licoy/CPA-Bar",
+   "category": "net",
+   "description": "📊 Keep an eye on your CLIProxyAPI servers from the menu bar | 在菜单栏里随时掌握你的 CLIProxyAPI 服务",
+   "stars": 13,
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "logdns/newtofile",
+   "category": "file",
+   "description": "Native macOS Finder file creation utility built with Go/MyGo and Swift",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-17"
+  },
+  {
+   "repo": "Licoy/Quosparr",
+   "category": "ai",
+   "description": "🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude Code and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay switching | 原生 macOS、Windows、Linux 菜单栏与托盘应用，统一查看 Codex、Claude Code、Grok 额度、重置动态、API 等价成本与本机会话，支持多账号与中转 API 切换",
+   "stars": 300,
+   "license": "AGPL-3.0",
+   "homepage": "https://quosparr.com",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "lufficc/clash-traffic",
+   "category": "net",
+   "description": "See where your Clash Verge traffic goes — by app, site, proxy node, subscription and device.",
+   "stars": 42,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "m3hu1/mygo-todo",
+   "category": "prod",
+   "description": "Personal todo plus notes macos menubar app built using mygo.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-17"
+  },
+  {
+   "repo": "m3hu1/tuck",
+   "category": "prod",
+   "description": "Personal todos and markdown notes in a tiny 3.8 MB package. Native macOS menu bar app: fast, light on resources, built with MyGo.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "marukolibro/Hop",
+   "category": "net",
+   "description": "A native macOS and Windows proxy client for mihomo (Clash.Meta). Built in Go with MyGo, no webview.",
+   "stars": 5,
+   "license": "GPL-3.0",
+   "homepage": "https://marukolibro.github.io/Hop/",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "mcxen/GodGo",
+   "category": "kit",
+   "description": "MyGo 技术外壳：侧栏、设置、工作流和签名更新。",
+   "stars": 0,
+   "license": "NOASSERTION",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "Magnetkopf/aim",
+   "category": "file",
+   "description": "Love ur AppImage.",
+   "stars": 1,
+   "license": "GPL-3.0",
+   "homepage": "https://aim.magnetkopf.com",
+   "platforms": [
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-09"
+  },
+  {
+   "repo": "meimingqi222/devin-usage-metrics",
+   "category": "ai",
+   "description": "Local coding-agent analytics, now implemented in **Go + MyGo native UI**. No Rust compilation, WebView, JavaScript runtime, or cgo is required to build the desktop application.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "LoTwT/lucia",
+   "category": "kit",
+   "description": "Lucia 是一个基于 MyGo 原生 UI 的桌面应用底座：界面由 Go 直接描述并在 GPU 上绘制，不使用 WebView；本地开发、打包、GitHub 发布与签名自动更新已经接通。",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "mintonight/pomodoro",
+   "category": "prod",
+   "description": "极简桌面番茄钟 (Go + MyGo native UI)。专注计时、暂停超时取消、统计热力图、系统托盘、SQLite 本地存储。",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "michaelmjhhhh/Chaos",
+   "category": "file",
+   "description": "handling macOS screenshots",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-16"
+  },
+  {
+   "repo": "missuo/motrix-mygo",
+   "category": "media",
+   "description": "Motrix with a native Go UI on MyGo, driving the aria2 engine Motrix ships. No Electron, no webview.",
+   "stars": 55,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-15"
+  },
+  {
+   "repo": "minifish-org/pith-desk",
+   "category": "ai",
+   "description": "A thin local desktop agent powered by Pith, with workspace tools, MCP connections, and a TypeScript interface.",
+   "stars": 1,
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "myoula/ape-player",
+   "category": "media",
+   "description": "emby player on omarchy",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-17"
+  },
+  {
+   "repo": "nerv-base/mytoken",
+   "category": "ai",
+   "description": "Where did all your tokens go? Local token & cost tracker for AI coding harnesses — Claude Code, Codex, Gemini CLI, opencode, Cline and more.",
+   "stars": 5,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "nggalek-co/titen",
+   "category": "ai",
+   "description": "Titen is a native desktop meeting transcription application for macOS and Windows built with MyGo native GPU widgets, Go, and platform-specific native capture helpers. It captures ",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "nerv-base/MyToolbox",
+   "category": "prod",
+   "description": "让日常，轻一点。 本地、原生、模块化的桌面工具箱。",
+   "stars": 0,
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "Moonvy/UPX-Installer-GO",
+   "category": "dev",
+   "description": "Adobe UPX/CEP Extension Installer, Windows/macOS app.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-17"
+  },
+  {
+   "repo": "moxuun/sing-box-drover-go",
+   "category": "net",
+   "description": "sing-box-dover的go重构，sing-box的托盘控制器。支持 ref1nd 内核的 provider 写法。",
+   "stars": 4,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "Nigh/ReSoBackup",
+   "category": "file",
+   "description": "Reed-Solomon erasure coding backup tool with AES-256 encryption, GUI & CLI | Reed-Solomon 纠删码加密备份工具，支持 GUI 和 CLI",
+   "stars": 16,
+   "license": "LGPL-2.1",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-12"
+  },
+  {
+   "repo": "oscs1024-pixel/MiJia",
+   "category": "sys",
+   "description": "使用 **Go + MyGo GPU 原生 UI** 从零重构的跨平台智能家居控制中心，交互参考 MenuBarMijia。默认中文、浅色卡片，macOS 采用原生菜单栏 Flyout，不使用 HTML / WebView。",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "oshell-desktop/oshell-desktop",
+   "category": "dev",
+   "description": "OShell Desktop — shared Go core and native desktop UI",
+   "stars": 1,
+   "license": "GPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "Prit36/quarry-disk-analyzer",
+   "category": "file",
+   "description": "Quarry: a fast, native Windows disk space analyzer in Go. Direct NTFS MFT reading, Explorer-style tree, powerful search, synchronized treemap.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "oysterhyd/AgentMeter",
+   "category": "ai",
+   "description": "Windows desktop monitor for Codex quota, token usage, estimated costs and runtime metrics.",
+   "stars": 2,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "preceeder/gui-redis",
+   "category": "dev",
+   "description": "redis cli support mac, windows",
+   "stars": 1,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "qzz0518/Moniflip",
+   "category": "sys",
+   "description": "一键把显示器切到另一台电脑：macOS 状态栏 / Windows 托盘工具，经 DDC/CI 切换输入源。Flip monitors between computers over DDC/CI.",
+   "stars": 2,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-13"
+  },
+  {
+   "repo": "pteich/repo-hopper",
+   "category": "dev",
+   "description": "Quickly navigate and open your recently changed Git repos with a native app.",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-20"
+  },
+  {
+   "repo": "pteich/us3ui",
+   "category": "file",
+   "description": "🗂️ Universal Cross-Platform native s3 Object Storage GUI and FileManager",
+   "stars": 36,
+   "license": "MIT",
+   "homepage": "https://us3ui.pteich.de",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "RedwindA/gotify-desktop",
+   "category": "net",
+   "description": "A receive-only desktop client for Gotify. Works on macOS, Windows and Linux",
+   "stars": 4,
+   "license": "GPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "Riablo/skills-hub",
+   "category": "ai",
+   "description": "A desktop app to manage agent skills in one place and install them globally or per project, locally or over SSH. Built with MyGo.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-11"
+  },
+  {
+   "repo": "rayorole/orole-os-desktop",
+   "category": "sys",
+   "description": "Orole OS - your personal operating environment (Windows-native, MyGo + Go daemon + React)",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "RSK21X/GoRss",
+   "category": "editor",
+   "description": "Native RSS and Atom reader for Apple Silicon Macs, built with MyGo and Onevra",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-15"
+  },
+  {
+   "repo": "rzh0504/Qmdr",
+   "category": "media",
+   "description": "🎵 QQmusic/Playlist Downloader",
+   "stars": 1,
+   "license": "GPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "shenjing023/KLineChart-go",
+   "category": "dev",
+   "description": "KLineChart for go",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "saanuregh/dgopher",
+   "category": "dev",
+   "description": "Fast, native database GUI: a SQL client for PostgreSQL, MySQL, ClickHouse, SQLite and DuckDB, and a Redis client. One Go binary, no Electron. Linux, macOS and Windows.",
+   "stars": 2,
+   "license": "Apache-2.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "Shirolin/videopress",
+   "category": "media",
+   "description": "基于 Wails v2 + Go + FFmpeg 的高颜值 Windows 视频压缩工具 (GUI + CLI)",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "soidaken/ClipRecorder",
+   "category": "prod",
+   "description": "Windows 原生截图 / 录屏 / 框选翻译工具：Go + MyGo 原生 UI，无 WebView。截图 Ctrl+I，录屏 Ctrl+R，英文框选翻译 Ctrl+T（本机 OCR + DeepSeek）。",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "sorrycc/CCGuanjia",
+   "category": "ai",
+   "description": "A Mac app that looks after Claude Code: profiles of your own accounts, install, usage and cleanup",
+   "stars": 3,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "sorrycc/Deckle",
+   "category": "editor",
+   "description": "A fast, native Markdown editor for macOS",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "skeleton1231/zcode-my-go",
+   "category": "ai",
+   "description": "Zgo — open-source desktop coding agent in pure Go (mygo native UI · ZCode-translated runtime · multi-provider)",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-20"
+  },
+  {
+   "repo": "si-mods/MyVNC",
+   "category": "net",
+   "description": "Pure Go VNC viewer for Windows built with MyGo, ported from TigerVNC",
+   "stars": 5,
+   "license": "GPL-2.0",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "Star-Trails/countdowner",
+   "category": "prod",
+   "description": "A native Windows desktop countdown widget built with Go and MyGo.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "sorrycc/Mayoi",
+   "category": "editor",
+   "description": "A small, fast code editor written in Go, with a native GPU-drawn UI (no webview, no Electron)",
+   "stars": 256,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "Sakurasan/ClashX-Go",
+   "category": "net",
+   "description": "A macOS menu bar proxy client modeled closely on ClashX",
+   "stars": 1,
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "tacshi/Unscan",
+   "category": "prod",
+   "description": "Make scanned PDFs searchable, or retype them into clean text PDFs, entirely on your own machine. A macOS app and CLI in Go, without cgo, using PaddleOCR's PP-OCRv6.",
+   "stars": 2,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-17"
+  },
+  {
+   "repo": "sugarbearr/gogo-explorer",
+   "category": "sys",
+   "description": "gogo-explorer is a from-scratch, opinionated take on the Windows Task Manager. There is no sidebar and no tab bar: the process table **is** the main screen. Select a row and a deta",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-10"
+  },
+  {
+   "repo": "tacshi/Yeek",
+   "category": "dev",
+   "description": "A native, cross-platform API client for HTTP, GraphQL, gRPC and WebSocket, written entirely in Go.",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "steampixel007/Dipper",
+   "category": "media",
+   "description": "A native anime-following desktop app built on MyGo Native UI + Go: Mikan catalog, RSS and a built-in BT downloader.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "tiramission/oci-sync",
+   "category": "dev",
+   "description": "Sync local files or directories to OCI-compatible image registries",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "https://tiramission.github.io/oci-sync/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-12"
+  },
+  {
+   "repo": "thedavidweng/rainforest",
+   "category": "file",
+   "description": "Rainforest — Unofficial cross-platform desktop backup and transfer client for Amazon Photos",
+   "stars": 0,
+   "license": "AGPL-3.0",
+   "homepage": "http://rainforest.blahaj.uk/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "tk103331/ChatGo",
+   "category": "ai",
+   "description": "A simple cross-platform AI chat client built with Go and MyGo, with multi-provider models, Agents, tools, MCP, ACP and a built-in terminal.",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "Team-Quaver/quaver-astra",
+   "category": "media",
+   "description": "A lightweight, cross-platform Quaver Music client with a native-like experience. built by MyGO",
+   "stars": 1,
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "tortoise10h/calculus",
+   "category": "fun",
+   "description": "A calculator built with Golang MyGo Native",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "vfasky/mygo-vaultwarden",
+   "category": "file",
+   "description": "Your Vaultwarden, native on your Mac",
+   "stars": 15,
+   "license": "NOASSERTION",
+   "homepage": "https://mygo-vault.vfasky.com",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-13"
+  },
+  {
+   "repo": "viewhang/go_paste",
+   "category": "file",
+   "description": "A clipboard manager for macOS and Windows, built with Go and MyGo.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "wan-kong/apex-helper",
+   "category": "sys",
+   "description": "禁用一些影响游戏操作的按键，说就是你：Apex !",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-08"
+  },
+  {
+   "repo": "xbenduan/vitals",
+   "category": "sys",
+   "description": "欢迎Star，然后这是一个很原子化需求的小应用，它的定位并不是大而全。后续也不会考虑增加更多功能，而是会在现有基础上做好用户体验，如果过你有什么建议也欢迎提 issue",
+   "stars": 11,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-16"
+  },
+  {
+   "repo": "xiaomai1011/GZIST-DormSignin-Baiyun",
+   "category": "net",
+   "description": "广州理工学院白云校区宿舍签到客户端 · Go + MyGo · Windows x64",
+   "stars": 7,
+   "license": "NOASSERTION",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "xingkaixin/mygo-native-ui",
+   "category": "kit",
+   "description": "Native UI components for mygo",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "xptea/curb",
+   "category": "media",
+   "description": "A minimal native video and audio downloader. Paste a link, choose video or MP3 audio and a quality, then save the file locally. No WebView No Electron",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "https://curb.seths.app",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-17"
+  },
+  {
+   "repo": "xinde/deepseek-harness-mygo",
+   "category": "ai",
+   "description": "Lightweight MyGO desktop launcher for a local DeepSeek Harness checkout",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-19"
+  },
+  {
+   "repo": "xiaomai1011/GZIST-NetKeeper",
+   "category": "net",
+   "description": "广州理工学院校园网自动登录保活工具 | 适配 2026-09 学校认证系统升级后的新接口（Dr.COM/eportal），掉线自动重连、开机自启、后台运行",
+   "stars": 9,
+   "license": "NOASSERTION",
+   "homepage": "https://xiaomai1011.github.io/GZIST-NetKeeper/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "yaffalhakim1/playlist",
+   "category": "media",
+   "description": "A native desktop player for YouTube playlists. MyGo, Onevra, Inter. No webview.",
+   "stars": 0,
+   "license": null,
+   "homepage": "https://yaffalhakim1.github.io/playlist/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "xinde/Mote",
+   "category": "editor",
+   "description": "一个macOS 菜单栏工具：随手写 Markdown，也随手开始一段专注计时。极简记事本和番茄钟工具。A menu bar Markdown notepad and Pomodoro timer for macOS, in native MyGo UI",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "ychuo/copiggy",
+   "category": "file",
+   "description": "Copiggy is a native clipboard companion for macOS. Browse what you copied, keep useful clips, and prepare content before pasting.",
+   "stars": 1,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "yangflow/oriel",
+   "category": "editor",
+   "description": "Personal mixed-timeline reader for RSS and RSSHub, in pure Go with native UI (MyGo). Desktop app and headless server in one program.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "xiaomai1011/GZIST-Hotspot",
+   "category": "net",
+   "description": "校园网有线转热点：一键开关 / 自动防断网 / 网卡自适应 / 含 Wi-Fi Direct 幻影设备实战排障手册（广州理工学院实测可用）",
+   "stars": 4,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "ychuo/tavu",
+   "category": "prod",
+   "description": "Tavu is a native macOS workspace for running your tools, editing files, and reviewing changes in one place. Written in Go with MyGo.",
+   "stars": 1,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "ydongy/template-mygo-app",
+   "category": "kit",
+   "description": "Pure Go native desktop app template using MyGo, with initialization, localization, tests and packaging",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "yinshuwei/mytools",
+   "category": "prod",
+   "description": "AI开发的开发者工具箱（ui使用mygo）",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "younland/apigo",
+   "category": "dev",
+   "description": "apigo 是一个用 Go 编写、由 MyGo 原生 UI 直接绘制的跨平台接口调试工具，形态对标 Hoppscotch：在一个窗口里填写请求（方法 / URL / Query / Header / Body）、发送并查看响应，把请求整理成集合、按环境切换变量。它没有前端构建链、没有 WebView，界面与逻辑全是 Go，单文件分发、启动即用、完全离线。当前处于脚手架阶段，请求执行与集合能力见 Roadmap。",
+   "stars": 3,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "zackzhou-work/spark-go",
+   "category": "ai",
+   "description": "A small macOS window that shows the live status of every session in the Code tab of Claude Desktop. Built with Go and the native UI of mygo.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "Yurbin/mygo-snake",
+   "category": "fun",
+   "description": "贪吃蛇桌面游戏 · MyGo 原生 UI · 麒麟 V10 SP1 绿色免安装",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-08"
+  },
+  {
+   "repo": "yldm-tech/mygo-breeze-ui",
+   "category": "kit",
+   "description": "Tailwind-inspired typed native UI components, utilities, CLI, and MCP tools for MyGo",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "https://yldm-tech.github.io/mygo-breeze-ui/",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-03"
+  },
+  {
+   "repo": "YuanZhe-99/Kyokai",
+   "category": "ai",
+   "description": "Kyokai is a cross-platform Computer Use application that enables people and AI agents to interact",
+   "stars": 1,
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "younland/RcloneDrive",
+   "category": "file",
+   "description": "RcloneDrive 是一个开源的跨平台云存储挂载工具，基于 Go 构建，采用 mygo native 模式绘制纯 Go 原生界面（非 WebView，单一二进制、无前端工具链）。它将 rclone 强大的多协议支持（S3、WebDAV、Google Drive、OneDrive 等 70+ 种存储后端）封装为简洁的桌面应用，让用户能够像访问本地磁盘一样浏览和管理云端文件。支持 Windows（通过 WinFsp，安装包内嵌静默安装）、macOS 和 Linux，提供系统托盘后台运行、开机自启、GitHub Releases 自动更新与传输监控，是 RaiDrive 的开源替代方案。",
+   "stars": 5,
+   "license": "MIT",
+   "homepage": "https://github.com/younland/RcloneDrive",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-20"
+  },
+  {
+   "repo": "ZeroDevi1/gamesave-manager",
+   "category": "fun",
+   "description": "一个基于 MyGo 的游戏存档备份管理工具，帮助玩家快速备份、恢复和管理本地游戏存档。",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-14"
+  },
+  {
+   "repo": "ZeroDevi1/nomo-mygo",
+   "category": "file",
+   "description": "Nomo rewritten on MyGo (Go desktop shell)",
+   "stars": 0,
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "zhengchalei/MQTT-Desktop",
+   "category": "dev",
+   "description": "基于 MyGO 原生 Go UI 的轻量 MQTT 桌面客户端，支持多连接、MQTT 3.1.1/5.0、订阅、消息发布与历史记录。",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-05"
+  },
+  {
+   "repo": "zrcoder/ttoy",
+   "category": "fun",
+   "description": "Dev toys on the terminal",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "zyition/voke",
+   "category": "prod",
+   "description": "Voke — Windows 启动器",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "zty012/guart",
+   "category": "dev",
+   "description": "使用 **MyGo 原生 UI + MujicaUI** 构建的 Go 串口工具。不使用 WebView、HTML 或 JavaScript，无需 CGO。",
+   "stars": 0,
+   "license": null,
+   "homepage": "guart.2y.nz",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "ZypherChan/MusicComments",
+   "category": "media",
+   "description": "网易云随机热评桌面应用，基于 Go + MyGo 原生 UI，支持 Windows x64 与 Linux x64 构建。",
+   "stars": 1,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "alvyn16/GOsidian",
+   "category": "editor",
+   "description": "High-performance, local-first Obsidian clone built with MyGo (pure Go desktop runtime) and TypeScript.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "Eslzzyl/krkrgo",
+   "category": "fun",
+   "description": "Modern krkrz emulator in pure Go (WIP)",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "hoanglong2311/AI-limit",
+   "category": "ai",
+   "description": "macOS menu bar app to view AI subscription usage",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-13"
+  },
+  {
+   "repo": "17130239-coder/Pulse",
+   "category": "sys",
+   "description": "⚡ Pulse — Native macOS System & Hardware Activity Monitor in Pure Go (via MyGo framework with GPU Metal rendering)",
+   "stars": 0,
+   "license": null,
+   "homepage": "https://github.com/17130239-coder/Pulse",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "jiqing112/frpcclient",
+   "category": "net",
+   "description": "一个运行在 Windows 10/11 上的 **frp 客户端图形管理工具**。",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-09"
+  },
+  {
+   "repo": "Helix-lyh/leeway",
+   "category": "ai",
+   "description": "AI 编程 provider 用量 / 额度 / 重置时间的纯 CLI 探测工具",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-11"
+  },
+  {
+   "repo": "308K/my-doubtful-go",
+   "category": "prod",
+   "description": "SmartAR Desktop: 智能应收账款账龄分析与坏账预警桌面系统 (MyGo + React 19 + Shadcn UI + Excelize v2 动态公式引擎",
+   "stars": 0,
+   "license": "MPL-2.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "lexleizou/byop",
+   "category": "ai",
+   "description": "Native MyGo multi-plugin workbench for an external Pi CLI",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "AstraFoundry/KumoApp",
+   "category": "net",
+   "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.",
+   "stars": 295,
+   "license": "AGPL-3.0",
+   "homepage": "https://usekumo.app",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "BabyLy233/MyLock",
+   "category": "fun",
+   "description": "Deadlock 的模组管理器，用 Go + Mygo 写的原生桌面应用",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "gvenusleo/Atlas",
+   "category": "ai",
+   "description": "A general-purpose agent built in Go.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "ftech-vn/kubedesk",
+   "category": "dev",
+   "description": "A fast, light Kubernetes desktop client for people who juggle many clusters: live resources, logs, shells, a watchlist with notifications, a timeline of changes and production guardrails.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "https://kubedesk.cloud/",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "owocc/bowerbird",
+   "category": "media",
+   "description": "Bowerbird is a cross-platform desktop digital asset manager built with **mygo (Go)** in webview mode and **React 19 + TypeScript + Tailwind CSS v4**. The desktop shell migrated fro",
+   "stars": 1,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "my3rs/GoShell",
+   "category": "dev",
+   "description": "基于 Go 与 MyGo 构建的轻量跨平台桌面 SSH 终端与主机管理工具",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "songlairui/skills-reader",
+   "category": "ai",
+   "description": "A MyGo desktop reader for agent skills in ~/.agents/skills — grouped, nicely typeset, with lock-file based update checks",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-09"
+  },
+  {
+   "repo": "Maidang1/herdr-ui",
+   "category": "ai",
+   "description": "Herdr 的原生桌面客户端，第一版面向本机 macOS，使用 **Go + mygo 原生 UI与内置终端插件**。展示已有工作区、工作树、代理状态与终端，支持标签、分屏和 Herdr prefix 模式。",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "VeinsureLee/BYR-Client",
+   "category": "sys",
+   "description": "面向北邮人论坛的本地桌面客户端。业务逻辑使用 Go，界面使用 egoist/mygo 的原生 UI；Windows 优先，同时面向 macOS、Linux。",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-20"
+  },
+  {
+   "repo": "XueJie1/godrome",
+   "category": "media",
+   "description": "功能 • 安装 • 快速开始 • 使用 • 常见问题 • 开发",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-18"
+  },
+  {
+   "repo": "mcxen/WinExplorer",
+   "category": "file",
+   "description": "一个用 MyGo 的**纯原生 UI** 实现的文件管理器，外观与排版完整对齐 Windows 11 文件资源管理器。界面组件与单色图标基于 Onevra 组件库（内嵌 Lucide 图标集），彩色文件/文件夹/盘符图标由 Go 在 GPU 上自绘。",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "xxww0098/xbs",
+   "category": "ai",
+   "description": "跨平台批量图生图桌面工具，支持豆包与千问，基于 Go 和 MyGo。",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "tviber/voice-morph",
+   "category": "ai",
+   "description": "MorphVOX Pro 风格的实时变声器 —— Go DSP 引擎 + Web 前端 + MyGo 桌面壳。",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-15"
+  },
+  {
+   "repo": "yeshan333/tingsub",
+   "category": "ai",
+   "description": "Local bilingual live captions for English/Japanese browser audio. Apple Silicon + MLX, Chrome extension. 本地直播双语字幕。",
+   "stars": 2,
+   "license": "MIT",
+   "homepage": "https://shansan.top/tingsub/",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "zachzhao1984/bucketeer",
+   "category": "file",
+   "description": "A native macOS client for Cloudflare R2 and S3-compatible storage, built with Go and MyGo.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "zachzhao1984/twintrail",
+   "category": "file",
+   "description": "A native dual-pane macOS file manager built with Go and myGO.",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-12"
+  },
+  {
+   "repo": "zephyr-qu/kanso",
+   "category": "prod",
+   "description": "个人自用的小型看板项目管理工具：Go 后端 + React 前端 + SQLite 单机存储，单端口运行",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-19"
+  },
+  {
+   "repo": "vst93/bili-fm",
+   "category": "media",
+   "description": "bilifm - 通过音频来听 B 站节目，可作为音乐播放器或知识学习工具。使用 Go + mygo 原生开发，支持 Windows、macOS 和 Linux。",
+   "stars": 66,
+   "license": "Apache-2.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "DejavuMoe/Pail",
+   "category": "file",
+   "description": "Cross-platform desktop manager for S3-compatible object storage: Amazon S3, MinIO, Cloudflare R2, VersityGW, Wasabi and other services that speak the S3 API.",
+   "stars": 30,
+   "license": "MIT",
+   "homepage": "https://pail.download",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "elianiva/meiro",
+   "category": "media",
+   "description": "Lightweight Youtube Music client in MyGo!!!!!",
+   "stars": 35,
+   "license": "GPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "oneo-me/onevra",
+   "category": "kit",
+   "description": " Native desktop UI components for Go, built on MyGo. Themed controls, window shells, Lucide icons, plus chat, Markdown, code highlighting, charts and a command palette. Also includes a standalone packager for macOS, Windows and Linux.",
+   "stars": 252,
+   "license": "MIT",
+   "homepage": "https://oneo-me.github.io/onevra/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "kkkk2323/droi",
+   "category": "ai",
+   "description": "Native Mac, Windows and iPhone app for Factory Droid: your droid Sessions in one window and on your phone, built with Go (MyGo) and Expo",
+   "stars": 12,
+   "license": "MIT",
+   "homepage": "https://github.com/kkkk2323/droi/releases/latest",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "oneo-me/neohm",
+   "category": "sys",
+   "description": "macOS menu bar app for controlling Home Assistant devices, with full air conditioner controls. Built in Go with MyGo and Onevra.",
+   "stars": 9,
+   "license": null,
+   "homepage": "https://oneo-me.github.io/neohm/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-20"
+  },
+  {
+   "repo": "oneo-me/locus",
+   "category": "editor",
+   "description": "A local-first Markdown notebook for macOS. Notes stay ordinary files you can edit anywhere, with HTML canvases, read-only MCP for Agents, and a built-in terminal.",
+   "stars": 5,
+   "license": "MIT",
+   "homepage": "https://oneo-me.github.io/locus/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-17"
+  },
+  {
+   "repo": "e1roy/stage-manager-for-windows",
+   "category": "sys",
+   "description": "macOS-style Stage Manager for Windows 10/11: keep the current app on stage and group the rest into a sidebar, one per monitor. Pure Go, no cgo, no WebView.",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "logdns/imyemail-cloud",
+   "category": "editor",
+   "description": "Two open-source email editions: platform-native clients and Pulse-inspired Go/MyGo desktop",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "https://imy.email",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-11"
+  },
+  {
+   "repo": "lesenelir/stock-float-mygo-native",
+   "category": "sys",
+   "description": "A tiny always-on-top macOS panel for live stock prices, in pure Go with MyGo native UI (no webview)",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-19"
+  },
+  {
+   "repo": "gantrol/YouRun",
+   "category": "dev",
+   "description": "Manage local project commands from a desktop app or CLI. Built with Go, MyGo and React.",
+   "stars": 0,
+   "license": "Apache-2.0",
+   "homepage": "https://apps.microsoft.com/store/detail/9MWXXGC8H67D?cid=DevShareMCLPCS",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-19"
+  },
+  {
+   "repo": "cainiao524/hd2-font-maker-go",
+   "category": "dev",
+   "description": "用自己的字体生成 Helldivers 2 字体替换 Mod 的 Windows 工具（Go + MyGo，14 种界面语言）。Font replacement mod maker for Helldivers 2.",
+   "stars": 2,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "yaffalhakim1/opencode-gui",
+   "category": "ai",
+   "description": "Native desktop GUI for OpenCode, built with MyGo (Go), with a WebSocket daemon for phone access over Tailscale",
+   "stars": 1,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-16"
+  },
+  {
+   "repo": "hygkui/v5vpn-rea-client",
+   "category": "net",
+   "description": "Unofficial Go + MyGo desktop client for LeadSec V5VPN SSL VPN portals (protocol v2.0)",
+   "stars": 9,
+   "license": "Apache-2.0",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "zhengchalei/LeagueAkari-MyGo",
+   "category": "fun",
+   "description": "基于 MyGo + Go + WebView2 的轻量级国服 LOL 战绩与选人助手，源自 LeagueAkari；优化内存与按需查询。",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-07"
+  },
+  {
+   "repo": "mu-zi-lee/Tangentry",
+   "category": "editor",
+   "description": "沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+   "stars": 146,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "manual",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  },
+  {
+   "repo": "javatoai/silverwing",
+   "category": "dev",
+   "description": "小巧的原生多仓库研发工作台，基于 Go 与 MyGO 构建 (no webview, no Electron)，安装包约 18 MB。",
+   "stars": 1,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "HycJack/MintUI",
+   "category": "kit",
+   "description": "MintUI — 原生组件库与组件画廊，构建在 MyGo 之上：22 个包、无 WebView、纯 Go 无 cgo",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [],
+   "pushed": "2026-10-10"
+  },
+  {
+   "repo": "HyperGrapher/mygo-desktop-webgl-app",
+   "category": "kit",
+   "description": "",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-04"
+  },
+  {
+   "repo": "echoVic/cleanzo",
+   "category": "file",
+   "description": "macOS 深度清理工具 · A safety-first macOS cleaner: junk rules, space analysis, large files, similar photos, app uninstaller",
+   "stars": 9,
+   "license": "MIT",
+   "homepage": "https://cleanzo.echovic.com/",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-22"
+  },
+  {
+   "repo": "bunnywaffle/llama-manager",
+   "category": "ai",
+   "description": "Lightweight, high-performance desktop llama.cpp manager built with MyGo, featuring branching chat, multi-model router, and automated diagnostics",
+   "stars": 1,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "ctzcs/Timer",
+   "category": "prod",
+   "description": "",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-20"
+  },
+  {
+   "repo": "fachrihawari/omaterm",
+   "category": "dev",
+   "description": "Oh My Terminal: a terminal workspace for running coding agents side by side.",
+   "stars": 3,
+   "license": "MIT",
+   "homepage": "https://fachrihawari.github.io/omaterm/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "logdns/Win-XinAi-De-Tools",
+   "category": "net",
+   "description": "原生 Windows 网络工具：防火墙、网络配置、SMB、WSL 与临时 HTTP 服务；支持中英文、深浅色主题和本机 HTTP 服务检测。",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-17"
+  },
+  {
+   "repo": "M2tHane/Distill",
+   "category": "ai",
+   "description": "Distill local coding agent sessions (Claude Code, Codex, Pi) into skills, rules and AGENTS.md/CLAUDE.md",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-15"
+  },
+  {
+   "repo": "LZD121/my-gotion",
+   "category": "editor",
+   "description": "纯本地优先的 Notion 克隆桌面应用：块级文档 + 多维表格，JSON 文件为唯一数据源，WebDAV / GitHub 增量同步。Go + mygo + React + TipTap。",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-21"
+  },
+  {
+   "repo": "pararchy/para-term",
+   "category": "ai",
+   "description": "",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-10"
+  },
+  {
+   "repo": "smallnest/nutty",
+   "category": "dev",
+   "description": "",
+   "stars": 1,
+   "license": "Apache-2.0",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [],
+   "pushed": "2026-10-14"
+  },
+  {
+   "repo": "villatothesea/DumpingGround",
+   "category": "sys",
+   "description": "Windows-native maintenance utility — process viewer, disk-usage analyzer, safe cleanup with recycle-bin and backup guarantees",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-13"
+  },
+  {
+   "repo": "nyakang/nyadb",
+   "category": "dev",
+   "description": "",
+   "stars": 0,
+   "license": null,
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [
+    "native",
+    "web"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "smallnest/uix",
+   "category": "kit",
+   "description": "ui components for myGo",
+   "stars": 21,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-23"
+  },
+  {
+   "repo": "version-fox/vfox-plus",
+   "category": "dev",
+   "description": "Experimental Web UI and cross-platform desktop application for the vfox CLI.",
+   "stars": 1,
+   "license": "Apache-2.0",
+   "homepage": "",
+   "platforms": [
+    "Linux"
+   ],
+   "platform_evidence": "readme",
+   "ui_mode": [],
+   "pushed": "2026-10-25"
+  },
+  {
+   "repo": "zrcoder/ndor",
+   "category": "fun",
+   "description": "Draw with codes, for kids and coders~",
+   "stars": 11,
+   "license": "MIT",
+   "homepage": "https://ndor.netlify.app",
+   "platforms": [],
+   "platform_evidence": "none",
+   "ui_mode": [],
+   "pushed": "2026-10-24"
+  }
+ ],
+ "closed_source": [
+  {
+   "repo": null,
+   "name": "Pulse",
+   "url": "https://pulse.egoist.dev/",
+   "category": "closed-source",
+   "stars": null,
+   "license": "proprietary",
+   "homepage": "https://pulse.egoist.dev/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "official-site",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": null
+  },
+  {
+   "repo": null,
+   "name": "Kero",
+   "url": "https://kero.sh/",
+   "category": "closed-source",
+   "stars": null,
+   "license": "proprietary",
+   "homepage": "https://kero.sh/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "official-site",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": null
+  }
+ ]
+}
