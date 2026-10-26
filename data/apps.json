@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-25",
+ "fetched": "2026-10-26",
  "framework": "egoist/mygo",
- "count": 225,
+ "count": 226,
  "apps": [
   {
    "repo": "aouyitanaka/Fsearch-Mygo-GUI",
@@ -3638,15 +3638,49 @@
    "platform_evidence": "none",
    "ui_mode": [],
    "pushed": "2026-10-24"
+  },
+  {
+   "repo": "egoist/kero",
+   "category": "dev",
+   "description": "A terminal for coding agents, on macOS, Windows and Linux",
+   "stars": 1219,
+   "license": "MIT",
+   "homepage": "https://kero.sh/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-26"
+  },
+  {
+   "repo": "egoist/mygo-cloudmusic",
+   "category": "media",
+   "description": "MyGo 云音乐 - 第三方网易云音乐原生客户端",
+   "stars": 13,
+   "license": "AGPL-3.0",
+   "homepage": "https://music.egoist.dev/",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-26"
   }
  ],
  "closed_source": [
   {
-   "repo": null,
    "name": "Pulse",
    "url": "https://pulse.egoist.dev/",
    "category": "closed-source",
-   "stars": null,
    "license": "proprietary",
    "homepage": "https://pulse.egoist.dev/",
    "platforms": [
@@ -3658,26 +3692,7 @@
    "ui_mode": [
     "native"
    ],
-   "pushed": null
-  },
-  {
-   "repo": null,
-   "name": "Kero",
-   "url": "https://kero.sh/",
-   "category": "closed-source",
-   "stars": null,
-   "license": "proprietary",
-   "homepage": "https://kero.sh/",
-   "platforms": [
-    "macOS",
-    "Windows",
-    "Linux"
-   ],
-   "platform_evidence": "official-site",
-   "ui_mode": [
-    "native"
-   ],
-   "pushed": null
+   "note": "source repo not public; feedback repo is egoist/pulse-feedback"
   }
  ]
 }
