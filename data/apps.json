@@ -1,7 +1,7 @@
 {
  "fetched": "2026-10-26",
  "framework": "egoist/mygo",
- "count": 227,
+ "count": 228,
  "apps": [
   {
    "repo": "aouyitanaka/Fsearch-Mygo-GUI",
@@ -3686,6 +3686,23 @@
     "macOS"
    ],
    "platform_evidence": "readme",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-26"
+  },
+  {
+   "repo": "AstraFoundry/Arion",
+   "category": "ai",
+   "description": "Local-first voice input for macOS and Windows. On-device speech recognition, offline dictation, and local polishing.",
+   "stars": 51,
+   "license": "AGPL-3.0",
+   "homepage": "https://arion.astrafoundry.si",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
    "ui_mode": [
     "native"
    ],

@@ -11,7 +11,7 @@ WebView 页面（WKWebView / WebView2 / WebKitGTK），也可以完全由 Go 代
 没有 Electron、没有 cgo，产物是一个几兆到几十兆的单二进制；一条命令产出 macOS 应用包、
 Windows 安装器与 Linux 包，支持签名、公证与差量自动更新。
 
-**227 个项目** · **207 个桌面应用**（其中 **75 个**提供三端构建） · **20 个组件库与模板**
+**228 个项目** · **208 个桌面应用**（其中 **75 个**提供三端构建） · **20 个组件库与模板**
 
 _数据抓取于 2026-10-26；226 个开源条目均已核验 `go.mod` 实际依赖 `github.com/egoist/mygo`，另附闭源应用取自官网。_
 
@@ -96,6 +96,7 @@ go tool mygo dev
 ## 🤖 AI · Agent · LLM 客户端
 
 - [Licoy/Quosparr](https://github.com/Licoy/Quosparr) — 菜单栏 / 托盘额度管家，统一查看 Codex、Claude Code、Grok 的额度、重置、API 等价成本与本机会话，支持多账号与中转切换。 🍎 🪟 🐧 `300★` · AGPL-3.0 [官网](https://quosparr.com)
+- [AstraFoundry/Arion](https://github.com/AstraFoundry/Arion) — 本地优先的语音听写与拼音输入法：按住说话（macOS 右 ⌥ / Windows 右 Alt）在任意编辑器里说中英混说，识别、拼音打字、纠错学习与上下文润色全部在本机完成；Qwen3-ASR 1.7B 本地推理（macOS 走 MLX，Windows 走 speech.cpp），可选两阶段润色按当前应用与光标上下文调整措辞；自带系统输入法宿主（macOS ArionInput.app / Windows ArionTSF.dll），菜单栏常驻，草稿只在松键时提交，零知识同步与签名自动更新。 🍎 🪟 `51★` · AGPL-3.0 [官网](https://arion.astrafoundry.si)
 - [hehehai/AudioSmith](https://github.com/hehehai/AudioSmith) — Mac 上的语音、配音、有声书、朗读与转写工作台，免费开源。 🍎 `47★` · AGPL-3.0 [官网](https://actnow.dev/audiosmith)
 - [kkkk2323/droi](https://github.com/kkkk2323/droi) — Factory Droid 的原生 Mac / Windows / iPhone 应用：所有 droid 会话收进一个窗口，也能带在手机上。 🍎 🪟 · MIT
 - [nerv-base/mytoken](https://github.com/nerv-base/mytoken) — 本地 token 与成本账本：统计 Claude Code、Codex、Gemini CLI、opencode、Cline 等的花名册。 🍎 🪟 🐧 · MIT
