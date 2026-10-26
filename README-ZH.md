@@ -11,9 +11,9 @@ WebView 页面（WKWebView / WebView2 / WebKitGTK），也可以完全由 Go 代
 没有 Electron、没有 cgo，产物是一个几兆到几十兆的单二进制；一条命令产出 macOS 应用包、
 Windows 安装器与 Linux 包，支持签名、公证与差量自动更新。
 
-**226 个项目** · **206 个桌面应用**（其中 **75 个**提供三端构建） · **20 个组件库与模板**
+**227 个项目** · **207 个桌面应用**（其中 **75 个**提供三端构建） · **20 个组件库与模板**
 
-_数据抓取于 2026-10-26；225 个开源条目均已核验 `go.mod` 实际依赖 `github.com/egoist/mygo`，另附闭源应用取自官网。_
+_数据抓取于 2026-10-26；226 个开源条目均已核验 `go.mod` 实际依赖 `github.com/egoist/mygo`，另附闭源应用取自官网。_
 
 </div>
 
@@ -139,6 +139,7 @@ go tool mygo dev
 
 ## 🛠 开发者工具
 
+- [hyoban/peek](https://github.com/hyoban/peek) — 原生 Git diff 查看器：Changes 模式并排看改动与历史，Files 模式读某个提交下的任意文件；改动按代码/测试/文档/锁文件分组并标记已读，语法高亮、单栏或并排、逐变更跳转；可选中行号复制引用或 GitHub 链接，从行号槽写评论并一键导出成发给 Agent 的提示词，Codex 评审结论直接标在对应行下；多仓库同窗口切换，并可用 GitHub CLI 切分支或检出 PR。 🍎 `55★` · MIT
 - [Binaryify/MyGit](https://github.com/Binaryify/MyGit) — 轻量原生 Git 客户端，专注快速检查 AI Agent 对仓库做了哪些改动，三端可用。 🍎 🪟 🐧 · MIT [官网](https://binaryify.com/mygit/)
 - [younland/apigo](https://github.com/younland/apigo) — 对标 Hoppscotch 的接口调试工具：无前端构建链、无 WebView，界面与逻辑全是 Go，单文件分发、完全离线。 🍎 🪟 🐧 · MIT
 - [fachrihawari/omaterm](https://github.com/fachrihawari/omaterm) — Oh My Terminal——并排运行多个编码 Agent 的终端工作区。 🍎 🪟 🐧 · MIT [官网](https://fachrihawari.github.io/omaterm/)

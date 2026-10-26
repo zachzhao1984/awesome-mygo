@@ -11,9 +11,9 @@ WebView page (WKWebView / WebView2 / WebKitGTK) or be drawn entirely as native U
 No Electron, no cgo — the output is a single binary of a few MB, and one command produces the macOS app
 bundle, the Windows installer and Linux packages, with signing, notarization and delta auto-updates.
 
-**226 projects** · **206 desktop apps** (**75** of them ship all three platforms) · **20 libraries & templates**
+**227 projects** · **207 desktop apps** (**75** of them ship all three platforms) · **20 libraries & templates**
 
-_Data collected 2026-10-26. All 225 open-source entries are verified to actually depend on `github.com/egoist/mygo` in `go.mod`; the closed-source app is documented from its official site._
+_Data collected 2026-10-26. All 226 open-source entries are verified to actually depend on `github.com/egoist/mygo` in `go.mod`; the closed-source app is documented from its official site._
 
 </div>
 
@@ -139,6 +139,7 @@ Grouped by purpose; within a group, sorted by stars then name. Entries marked �
 
 ## 🛠 Developer Tools
 
+- [hyoban/peek](https://github.com/hyoban/peek) — A native Git diff viewer: a Changes mode stacking diffs with the history, and a Files mode reading any file as the commit has it; changed files grouped into code, tests, docs and generated files and marked viewed, syntax-highlighted diffs in unified or side-by-side layout, step-through of every change, copy line references or GitHub links, comment from the gutter and copy the comments as an agent prompt, with Codex review findings shown under the lines they concern; several repositories in one window, plus branch switching and PR checkout via the GitHub CLI. 🍎 `55★` · MIT
 - [Binaryify/MyGit](https://github.com/Binaryify/MyGit) — Check your agent's changes, fast. A light, native git client for macOS, Windows and Linux, built with MyGo. 🍎 🪟 🐧 · MIT [Website](https://binaryify.com/mygit/)
 - [younland/apigo](https://github.com/younland/apigo) — A Hoppscotch-shaped API debugger: no frontend toolchain, no WebView — the UI and logic are all Go, one file, fully offline. 🍎 🪟 🐧 · MIT
 - [fachrihawari/omaterm](https://github.com/fachrihawari/omaterm) — Oh My Terminal: a terminal workspace for running coding agents side by side. 🍎 🪟 🐧 · MIT [Website](https://fachrihawari.github.io/omaterm/)

@@ -1,7 +1,7 @@
 {
  "fetched": "2026-10-26",
  "framework": "egoist/mygo",
- "count": 226,
+ "count": 227,
  "apps": [
   {
    "repo": "aouyitanaka/Fsearch-Mygo-GUI",
@@ -449,7 +449,7 @@
   },
   {
    "repo": "egoist/2048",
-   "category": "fun",
+   "category": "author-app",
    "description": "2048 game in MyGo native! ",
    "stars": 0,
    "license": null,
@@ -493,7 +493,7 @@
   },
   {
    "repo": "egoist/godiff",
-   "category": "dev",
+   "category": "author-app",
    "description": "Fast native diff viewer",
    "stars": 123,
    "license": null,
@@ -511,7 +511,7 @@
   },
   {
    "repo": "egoist/gorex",
-   "category": "dev",
+   "category": "author-app",
    "description": "Rex terminal clone in MyGo native UI",
    "stars": 143,
    "license": null,
@@ -3641,7 +3641,7 @@
   },
   {
    "repo": "egoist/kero",
-   "category": "dev",
+   "category": "author-app",
    "description": "A terminal for coding agents, on macOS, Windows and Linux",
    "stars": 1219,
    "license": "MIT",
@@ -3659,7 +3659,7 @@
   },
   {
    "repo": "egoist/mygo-cloudmusic",
-   "category": "media",
+   "category": "author-app",
    "description": "MyGo 云音乐 - 第三方网易云音乐原生客户端",
    "stars": 13,
    "license": "AGPL-3.0",
@@ -3670,6 +3670,22 @@
     "Linux"
    ],
    "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-26"
+  },
+  {
+   "repo": "hyoban/peek",
+   "category": "dev",
+   "description": "A native git diff viewer for macOS, with Codex-written commits and code reviews, built in Go with MyGo",
+   "stars": 55,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "readme",
    "ui_mode": [
     "native"
    ],
