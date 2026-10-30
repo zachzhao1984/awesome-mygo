@@ -227,7 +227,7 @@ go tool mygo dev
 ## 🎵 媒体 · 播放器 · 下载
 
 - [fzn0x/mixmusic](https://github.com/fzn0x/mixmusic) — Spotify 与 YouTube Music 合一的跨平台播放器：一次搜索、一个队列、混合歌单、同步歌词与均衡器。 🍎 🪟 🐧 `110★` · MIT [官网](https://fzn0x.github.io/mixmusic/)
-- [vst93/bili-fm](https://github.com/vst93/bili-fm) — 用音频「听」B 站节目，可当音乐播放器或学习工具，Go + MyGo 原生开发，三端可用。 🍎 🪟 🐧 `66★` · Apache-2.0
+- [vst93/bili-fm](https://github.com/vst93/bili-fm) — 用音频「听」B 站节目，可当音乐播放器或学习工具，Go + MyGo 原生开发，三端可用。 🍎 🪟 🐧 `74★` · Apache-2.0
 - [missuo/motrix-mygo](https://github.com/missuo/motrix-mygo) — Motrix 的 MyGo 原生重写，继续驱动 aria2 下载引擎，无 Electron、无 WebView。 🍎 🪟 `55★`
 - [elianiva/meiro](https://github.com/elianiva/meiro) — 轻量 YouTube Music 桌面客户端，三端发布（含 ARM64 与 minimal 包）。 🍎 🪟 🐧 `35★` · GPL-3.0
 - [j4ckxyz/Aurelia](https://github.com/j4ckxyz/Aurelia) — Jellyfin 的快速原生音乐播放器，三端可用。 🍎 🪟 🐧 · MIT

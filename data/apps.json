@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-26",
+ "fetched": "2026-10-30",
  "framework": "egoist/mygo",
  "count": 228,
  "apps": [
@@ -3102,7 +3102,7 @@
    "repo": "vst93/bili-fm",
    "category": "media",
    "description": "bilifm - 通过音频来听 B 站节目，可作为音乐播放器或知识学习工具。使用 Go + mygo 原生开发，支持 Windows、macOS 和 Linux。",
-   "stars": 66,
+   "stars": 74,
    "license": "Apache-2.0",
    "homepage": "",
    "platforms": [
@@ -3114,7 +3114,7 @@
    "ui_mode": [
     "native"
    ],
-   "pushed": "2026-10-23"
+   "pushed": "2026-10-30"
   },
   {
    "repo": "DejavuMoe/Pail",

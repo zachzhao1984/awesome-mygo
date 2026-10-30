@@ -227,7 +227,7 @@ Grouped by purpose; within a group, sorted by stars then name. Entries marked �
 ## 🎵 Media · Players · Download
 
 - [fzn0x/mixmusic](https://github.com/fzn0x/mixmusic) — MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community them 🍎 🪟 🐧 `110★` · MIT [Website](https://fzn0x.github.io/mixmusic/)
-- [vst93/bili-fm](https://github.com/vst93/bili-fm) — Listen to Bilibili as audio — a player or study tool built natively in Go + mygo for Windows, macOS and Linux. 🍎 🪟 🐧 `66★` · Apache-2.0
+- [vst93/bili-fm](https://github.com/vst93/bili-fm) — Listen to Bilibili as audio — a player or study tool built natively in Go + mygo for Windows, macOS and Linux. 🍎 🪟 🐧 `74★` · Apache-2.0
 - [missuo/motrix-mygo](https://github.com/missuo/motrix-mygo) — Motrix with a native Go UI on MyGo, driving the aria2 engine Motrix ships. No Electron, no webview. 🍎 🪟 `55★`
 - [elianiva/meiro](https://github.com/elianiva/meiro) — Lightweight Youtube Music client in MyGo!!!!! 🍎 🪟 🐧 `35★` · GPL-3.0
 - [j4ckxyz/Aurelia](https://github.com/j4ckxyz/Aurelia) — A fast, native music player for Jellyfin (macOS, Windows, Linux), built with MyGo 🍎 🪟 🐧 · MIT
