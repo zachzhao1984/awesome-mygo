@@ -1,7 +1,7 @@
 {
  "fetched": "2026-10-31",
  "framework": "egoist/mygo",
- "count": 228,
+ "count": 229,
  "apps": [
   {
    "repo": "aouyitanaka/Fsearch-Mygo-GUI",
@@ -3709,6 +3709,22 @@
     "native"
    ],
    "pushed": "2026-10-26"
+  },
+  {
+   "repo": "lbr77/lody-mygo",
+   "category": "ai",
+   "description": "A native desktop client for Lody",
+   "stars": 19,
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-30"
   }
  ],
  "closed_source": [

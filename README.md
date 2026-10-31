@@ -11,7 +11,7 @@ WebView page (WKWebView / WebView2 / WebKitGTK) or be drawn entirely as native U
 No Electron, no cgo — the output is a single binary of a few MB, and one command produces the macOS app
 bundle, the Windows installer and Linux packages, with signing, notarization and delta auto-updates.
 
-**228 projects** · **208 desktop apps** (**75** of them ship all three platforms) · **20 libraries & templates**
+**229 projects** · **209 desktop apps** (**75** of them ship all three platforms) · **20 libraries & templates**
 
 _Data collected 2026-10-26. All 226 open-source entries are verified to actually depend on `github.com/egoist/mygo` in `go.mod`; the closed-source app is documented from its official site._
 
@@ -98,6 +98,7 @@ Grouped by purpose; within a group, sorted by stars then name. Entries marked �
 - [Licoy/Quosparr](https://github.com/Licoy/Quosparr) — A menu-bar/tray app tracking Codex, Claude Code and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and relay switching. 🍎 🪟 🐧 `300★` · AGPL-3.0 [Website](https://quosparr.com)
 - [AstraFoundry/Arion](https://github.com/AstraFoundry/Arion) — Local-first voice dictation and Pinyin input method: hold-to-talk (right ⌥ on macOS, right Alt on Windows) to speak Mandarin, English or mixed technical terms in any focused editor, with recognition, full-Pinyin typing, correction learning and contextual polishing all on-device; Qwen3-ASR 1.7B runs locally (MLX on macOS, speech.cpp on Windows), with optional two-stage polishing that adapts wording to the visible app and cursor context; ships native system IME hosts (ArionInput.app / ArionTSF.dll), lives in the menu bar, keeps partial drafts in its floating pill until release, plus zero-knowledge sync and signed updates. 🍎 🪟 `51★` · AGPL-3.0 [Website](https://arion.astrafoundry.si)
 - [hehehai/AudioSmith](https://github.com/hehehai/AudioSmith) — Speech, voices, stories, audiobooks, dubbing and transcription, made on your Mac. Free and open source. 🍎 `47★` · AGPL-3.0 [Website](https://actnow.dev/audiosmith)
+- [lbr77/lody-mygo](https://github.com/lbr77/lody-mygo) — A native desktop client for Lody, drawn on the GPU by MyGo's `ui` package with no web view: browser device-flow sign-in with Keychain-stored sessions; sessions grouped by machine and project with working/waiting/unread marks, pins, archive and forks; streaming Markdown with code highlighting, math and Mermaid; tool calls, thoughts, plans, diffs and subagents; `@` mentions, `$` skills and `/` shortcuts; scheduled tasks; plus a terminal, file explorer and Git worktrees from the local Lody daemon; a local-only mode and English/Simplified Chinese UI. 🍎 · AGPL-3.0
 - [kkkk2323/droi](https://github.com/kkkk2323/droi) — Native Mac, Windows and iPhone app for Factory Droid: your droid Sessions in one window and on your phone, built with Go (MyGo) and Expo 🍎 🪟 · MIT
 - [nerv-base/mytoken](https://github.com/nerv-base/mytoken) — Where did all your tokens go? Local token & cost tracker for AI coding harnesses — Claude Code, Codex, Gemini CLI, opencode, Cline and more. 🍎 🪟 🐧 · MIT
 - [enowx/enowx](https://github.com/enowx/enowx) — Run Claude Code, Codex and 43 other coding agents in parallel, each on its own branch in its own git worktree, on your machine or your own server. Watch, compare and merge them fro 🍎 🪟 🐧 · MIT
