@@ -226,10 +226,10 @@ go tool mygo dev
 
 ## 🎵 媒体 · 播放器 · 下载
 
+- [elianiva/meiro](https://github.com/elianiva/meiro) — 轻量级 YouTube Music 桌面播放器：界面原生而非浏览器套壳，内存占用约 100 MB，不加载 YouTube Music 网页即可播放，支持 Last.fm 记录、同步歌词与随歌曲变化的配色。 🍎 🪟 🐧 `268★` · GPL-3.0
 - [fzn0x/mixmusic](https://github.com/fzn0x/mixmusic) — Spotify 与 YouTube Music 合一的跨平台播放器：一次搜索、一个队列、混合歌单、同步歌词与均衡器。 🍎 🪟 🐧 `110★` · MIT [官网](https://fzn0x.github.io/mixmusic/)
 - [vst93/bili-fm](https://github.com/vst93/bili-fm) — 用音频「听」B 站节目，可当音乐播放器或学习工具，Go + MyGo 原生开发，三端可用。 🍎 🪟 🐧 `74★` · Apache-2.0
 - [missuo/motrix-mygo](https://github.com/missuo/motrix-mygo) — Motrix 的 MyGo 原生重写，继续驱动 aria2 下载引擎，无 Electron、无 WebView。 🍎 🪟 `55★`
-- [elianiva/meiro](https://github.com/elianiva/meiro) — 轻量 YouTube Music 桌面客户端，三端发布（含 ARM64 与 minimal 包）。 🍎 🪟 🐧 `35★` · GPL-3.0
 - [j4ckxyz/Aurelia](https://github.com/j4ckxyz/Aurelia) — Jellyfin 的快速原生音乐播放器，三端可用。 🍎 🪟 🐧 · MIT
 - [hackerlengyue/binggan](https://github.com/hackerlengyue/binggan) — 饼干大小姐：本地视频密钥提取与管理、课程播放编排、批量解密与资源管理（MyGo + Vue）。 🍎 🪟 🕸 · GPL-3.0
 - [owocc/bowerbird](https://github.com/owocc/bowerbird) — 本地素材与设计库管理器：MyGo WebView 模式 + React 19 / TypeScript / Tailwind v4，另有实验性原生渲染分支。 🍎 🪟 🐧 🕸

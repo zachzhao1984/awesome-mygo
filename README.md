@@ -226,10 +226,10 @@ Grouped by purpose; within a group, sorted by stars then name. Entries marked �
 
 ## 🎵 Media · Players · Download
 
+- [elianiva/meiro](https://github.com/elianiva/meiro) — A lightweight desktop player for YouTube Music with a native interface instead of a browser one — about 100 MB of memory, playing without loading the YouTube Music web page, with Last.fm scrobbling, synced lyrics and colors that match each song. 🍎 🪟 🐧 `268★` · GPL-3.0
 - [fzn0x/mixmusic](https://github.com/fzn0x/mixmusic) — MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community them 🍎 🪟 🐧 `110★` · MIT [Website](https://fzn0x.github.io/mixmusic/)
 - [vst93/bili-fm](https://github.com/vst93/bili-fm) — Listen to Bilibili as audio — a player or study tool built natively in Go + mygo for Windows, macOS and Linux. 🍎 🪟 🐧 `74★` · Apache-2.0
 - [missuo/motrix-mygo](https://github.com/missuo/motrix-mygo) — Motrix with a native Go UI on MyGo, driving the aria2 engine Motrix ships. No Electron, no webview. 🍎 🪟 `55★`
-- [elianiva/meiro](https://github.com/elianiva/meiro) — Lightweight Youtube Music client in MyGo!!!!! 🍎 🪟 🐧 `35★` · GPL-3.0
 - [j4ckxyz/Aurelia](https://github.com/j4ckxyz/Aurelia) — A fast, native music player for Jellyfin (macOS, Windows, Linux), built with MyGo 🍎 🪟 🐧 · MIT
 - [hackerlengyue/binggan](https://github.com/hackerlengyue/binggan) — A local video toolkit: key extraction and management, course playback scheduling, batch decryption and asset management (MyGo + Vue). 🍎 🪟 🕸 · GPL-3.0
 - [owocc/bowerbird](https://github.com/owocc/bowerbird) — Bowerbird is a cross-platform desktop digital asset manager built with **mygo (Go)** in webview mode and **React 19 + TypeScript + Tailwind CSS v4**. The desktop shell migrated fro 🍎 🪟 🐧 🕸

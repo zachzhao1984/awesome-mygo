@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-30",
+ "fetched": "2026-10-31",
  "framework": "egoist/mygo",
  "count": 228,
  "apps": [
@@ -3135,8 +3135,8 @@
   {
    "repo": "elianiva/meiro",
    "category": "media",
-   "description": "Lightweight Youtube Music client in MyGo!!!!!",
-   "stars": 35,
+   "description": "A lightweight desktop player for YouTube Music with a native interface (about 100 MB), no ads, Last.fm scrobbling, synced lyrics",
+   "stars": 268,
    "license": "GPL-3.0",
    "homepage": "",
    "platforms": [
@@ -3145,8 +3145,10 @@
     "Linux"
    ],
    "platform_evidence": "manual",
-   "ui_mode": [],
-   "pushed": "2026-10-24"
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-31"
   },
   {
    "repo": "oneo-me/onevra",
