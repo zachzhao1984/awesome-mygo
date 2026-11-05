@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-31",
+ "fetched": "2026-11-05",
  "framework": "egoist/mygo",
- "count": 229,
+ "count": 230,
  "apps": [
   {
    "repo": "aouyitanaka/Fsearch-Mygo-GUI",
@@ -3725,6 +3725,23 @@
     "native"
    ],
    "pushed": "2026-10-30"
+  },
+  {
+   "repo": "nexmoe/DayBee",
+   "category": "ai",
+   "description": "Desktop microphone recorder with real-time, on-device transcription, automatic audio segmentation, voice activity detection, and an MCP server for searching saved transcripts.",
+   "stars": 426,
+   "license": null,
+   "homepage": "https://daybee.co",
+   "platforms": [
+    "macOS",
+    "Windows"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "web"
+   ],
+   "pushed": "2026-10-25"
   }
  ],
  "closed_source": [
