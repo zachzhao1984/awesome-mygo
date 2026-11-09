@@ -1,7 +1,7 @@
 {
  "fetched": "2026-11-05",
  "framework": "egoist/mygo",
- "count": 230,
+ "count": 233,
  "apps": [
   {
    "repo": "aouyitanaka/Fsearch-Mygo-GUI",
@@ -3660,10 +3660,10 @@
    "pushed": "2026-10-26"
   },
   {
-   "repo": "egoist/mygo-cloudmusic",
+   "repo": "egoist/mygo-music",
    "category": "author-app",
-   "description": "MyGo 云音乐 - 第三方网易云音乐原生客户端",
-   "stars": 13,
+   "description": "A native music player you extend with plugins",
+   "stars": 1020,
    "license": "AGPL-3.0",
    "homepage": "https://music.egoist.dev/",
    "platforms": [
@@ -3675,7 +3675,7 @@
    "ui_mode": [
     "native"
    ],
-   "pushed": "2026-10-26"
+   "pushed": "2026-11-08"
   },
   {
    "repo": "hyoban/peek",
@@ -3742,6 +3742,58 @@
     "web"
    ],
    "pushed": "2026-10-25"
+  },
+  {
+   "repo": "xlanstar/yt-music-player",
+   "category": "media",
+   "description": "Lightweight YouTube Music player for macOS, Linux and Windows. Native, no Electron; plays in the background on about 16 MB.",
+   "stars": 0,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-10-29"
+  },
+  {
+   "repo": "21stware/bowel",
+   "category": "net",
+   "description": "A mihomo client for macOS. Route traffic by purpose, select exit nodes manually or by speed, inspect connections, TUN, gateway mode, and an MCP server for Claude Code to read status and troubleshoot.",
+   "stars": 240,
+   "license": "NOASSERTION",
+   "homepage": "https://21stware.github.io/bowel/",
+   "platforms": [
+    "macOS"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-11-08"
+  },
+  {
+   "repo": "cheetahbyte/thesio",
+   "category": "editor",
+   "description": "Obsidian for Typst. A folder of plain .typ files, a live preview compiled by Typst, and one vault for notes, papers and citations.",
+   "stars": 2,
+   "license": "MIT",
+   "homepage": "",
+   "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+   ],
+   "platform_evidence": "release",
+   "ui_mode": [
+    "native"
+   ],
+   "pushed": "2026-11-06"
   }
  ],
  "closed_source": [

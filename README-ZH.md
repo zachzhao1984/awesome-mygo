@@ -11,7 +11,7 @@ WebView 页面（WKWebView / WebView2 / WebKitGTK），也可以完全由 Go 代
 没有 Electron、没有 cgo，产物是一个几兆到几十兆的单二进制；一条命令产出 macOS 应用包、
 Windows 安装器与 Linux 包，支持签名、公证与差量自动更新。
 
-**230 个项目** · **210 个桌面应用**（其中 **75 个**提供三端构建） · **20 个组件库与模板**
+**233 个项目** · **213 个桌面应用**（其中 **77 个**提供三端构建） · **20 个组件库与模板**
 
 _数据抓取于 2026-10-26；226 个开源条目均已核验 `go.mod` 实际依赖 `github.com/egoist/mygo`，另附闭源应用取自官网。_
 
@@ -63,7 +63,7 @@ go tool mygo dev
 - [egoist/kero](https://github.com/egoist/kero) — 面向编码 Agent 的原生终端：会话跑在 `kerod` 守护进程里，关掉窗口仍在继续；侧栏标出哪个会话在等你，⌘J 直达；`kero new / split / send / wait / read` 让 Agent 自己开分屏、递任务、读屏幕；libghostty 渲染，支持 SSH / Tailscale / WSL 远程主机。 🍎 🪟 🐧 `1219★` · MIT [官网](https://kero.sh/)
 - [egoist/gorex](https://github.com/egoist/gorex) — Rex 终端的 MyGo 原生 UI 复刻。 🍎 🪟 🐧 `143★`
 - [egoist/godiff](https://github.com/egoist/godiff) — 轻快原生的 Git diff 查看器。 🍎 🪟 🐧 `123★`
-- [egoist/mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic) — 原生界面的第三方网易云音乐客户端，无 WebView：扫码登录、每日推荐、私人 FM 与心动模式、逐字歌词与「律动」视图；支持无损 / Hi-Res 边下边播、本地缓存、刘海迷你播放器、音量均衡与淡入淡出，深浅色跟随系统。 🍎 🪟 🐧 · AGPL-3.0 [官网](https://music.egoist.dev/)
+- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 用插件扩展的原生音乐播放器：本地文件（MP3 / FLAC / Ogg / WAV / m4a）开箱即用，含标签、封面与歌词；歌单、搜索、专辑与艺人，刘海播放器、托盘、媒体键、音频缓存与响度均衡；播客字幕由 sherpa-onnx 在本机随播随写；插件可自带账号、曲库、电台、评论与页面，无需编译。 🍎 🪟 🐧 `1020★` · AGPL-3.0 [官网](https://music.egoist.dev/)
 - [egoist/2048](https://github.com/egoist/2048) — 经典 2048 的 MyGo 原生桌面版。 ❓ [官网](https://2048.egoist.dev)
 
 ## 作者的闭源应用
@@ -82,6 +82,7 @@ go tool mygo dev
 - [mu-zi-lee/Tangentry](https://github.com/mu-zi-lee/Tangentry) — 沿着好奇心继续发现——本地优先的多平台内容聚合、阅读与笔记工具。 🍎 🪟 `146★` · MIT
 - [godwit-email/godwit](https://github.com/godwit-email/godwit) — 开源、可随意拆解改造的 AI 邮件客户端。 🍎 🪟 🐧 · Apache-2.0 [官网](https://godwit.email)
 - [oneo-me/locus](https://github.com/oneo-me/locus) — 本地优先的 Markdown 笔记本：笔记就是普通文件，支持 HTML 画布与只读 MCP。 🍎 🪟 🐧 🕸 · MIT [官网](https://oneo-me.github.io/locus/)
+- [cheetahbyte/thesio](https://github.com/cheetahbyte/thesio) — Typst 的 Obsidian：一个普通 `.typ` 文件夹、Typst 实时预览，外加一个承载笔记、论文与引用的库。 🍎 🪟 🐧 · MIT
 - [kiwiflydream/yunji-uml](https://github.com/kiwiflydream/yunji-uml) — PlantUML / Mermaid / Flowchart.js 的原生 macOS 编辑器。 🍎 🪟 🐧 · MIT
 - [sorrycc/Deckle](https://github.com/sorrycc/Deckle) — 快速原生的 macOS Markdown 编辑器。 🍎 🪟 🐧 · MIT
 - [RSK21X/GoRss](https://github.com/RSK21X/GoRss) — Apple Silicon Mac 上的原生 RSS / Atom 阅读器，MyGo + Onevra。 🍎
@@ -180,6 +181,7 @@ go tool mygo dev
 ## 🌐 网络 · 代理 · 远程
 
 - [AstraFoundry/KumoApp](https://github.com/AstraFoundry/KumoApp) — Mihomo (Clash.Meta) 内核的 macOS 客户端：Go + MyGo 外壳、React 界面，附带对 Agent 友好的 CLI。 🍎 🕸 `295★` · AGPL-3.0 [官网](https://usekumo.app)
+- [21stware/bowel](https://github.com/21stware/bowel) — 原生 mihomo 客户端：按用途分流、手动或按速度选出口节点、逐连接检视路由，支持 TUN 与网关模式，六套皮肤，另带 MCP 服务让 Claude Code 读取状态、排查连接。 🍎 `240★` · PolyForm 非商用 [官网](https://21stware.github.io/bowel/)
 - [lufficc/clash-traffic](https://github.com/lufficc/clash-traffic) — 看清 Clash Verge 的流量去向：按应用、站点、代理节点、订阅与设备聚合统计。 🍎 🪟 `42★`
 - [Licoy/CPA-Bar](https://github.com/Licoy/CPA-Bar) — 在菜单栏随时掌握你的 CLIProxyAPI 服务状态。 🍎 🪟 🐧 · AGPL-3.0
 - [xiaomai1011/GZIST-NetKeeper](https://github.com/xiaomai1011/GZIST-NetKeeper) — 校园网自动登录保活：适配新版 Dr.COM / eportal 接口，掉线重连、开机自启、后台常驻。 🍎 🪟 🐧 [官网](https://xiaomai1011.github.io/GZIST-NetKeeper/)
@@ -251,6 +253,7 @@ go tool mygo dev
 - [fazi-gondal/video](https://github.com/fazi-gondal/video) — 功能丰富的原生视频播放器，MyGo UI + MujicaUI，后台音频流播放。 🪟
 - [Shirolin/videopress](https://github.com/Shirolin/videopress) — 高颜值 Windows 视频压缩工具，GUI + CLI。 🪟 · MIT
 - [Alpenl/wallpaper](https://github.com/Alpenl/wallpaper) — 跨平台动态壁纸 MVP：macOS 原生转码与规则管理，Linux 走 mpv + X11 兼容路线。 🍎 🪟 🐧
+- [xlanstar/yt-music-player](https://github.com/xlanstar/yt-music-player) — 跨平台的 YouTube Music 轻量桌面播放器：纯 Go + MyGo 原生 GPU 自绘 UI、无 WebView，支持后台常驻播放与 ytm 终端控制。 🍎 🪟 🐧 · MIT
 
 
 ## ⚡ 效率 · 菜单栏 · 启动器

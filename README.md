@@ -11,7 +11,7 @@ WebView page (WKWebView / WebView2 / WebKitGTK) or be drawn entirely as native U
 No Electron, no cgo — the output is a single binary of a few MB, and one command produces the macOS app
 bundle, the Windows installer and Linux packages, with signing, notarization and delta auto-updates.
 
-**230 projects** · **210 desktop apps** (**75** of them ship all three platforms) · **20 libraries & templates**
+**233 projects** · **213 desktop apps** (**77** of them ship all three platforms) · **20 libraries & templates**
 
 _Data collected 2026-10-26. All 226 open-source entries are verified to actually depend on `github.com/egoist/mygo` in `go.mod`; the closed-source app is documented from its official site._
 
@@ -63,7 +63,7 @@ Full docs at [egoist/mygo/docs](https://github.com/egoist/mygo/blob/main/docs/RE
 - [egoist/kero](https://github.com/egoist/kero) — A native terminal for coding agents: sessions run in the `kerod` daemon and survive quitting; the sidebar shows which one needs you and ⌘J jumps there; `kero new / split / send / wait / read` lets agents drive panes themselves; libghostty rendering with SSH / Tailscale / WSL remote hosts. 🍎 🪟 🐧 `1219★` · MIT [Website](https://kero.sh/)
 - [egoist/gorex](https://github.com/egoist/gorex) — Rex terminal clone in MyGo native UI 🍎 🪟 🐧 `143★`
 - [egoist/godiff](https://github.com/egoist/godiff) — Fast native diff viewer 🍎 🪟 🐧 `123★`
-- [egoist/mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic) — A third-party NetEase Cloud Music client with native UI and no WebView: QR-code login, daily recommendations, private FM and heart-beat mode, per-syllable lyrics with a "rhythm" view; lossless and Hi-Res progressive playback, local caching, a notch mini-player, volume normalization and crossfade, light/dark themes. 🍎 🪟 🐧 · AGPL-3.0 [Website](https://music.egoist.dev/)
+- [egoist/mygo-music](https://github.com/egoist/mygo-music) — A native music player you extend with plugins: local files (MP3 / FLAC / Ogg / WAV / m4a) with tags, covers and lyrics out of the box; playlists, search, albums and artists; a notch player, tray, media keys, audio cache and loudness normalization; on-device podcast captions via sherpa-onnx; plugins add their own accounts, catalogs, stations, comments and pages, with nothing to build. 🍎 🪟 🐧 `1020★` · AGPL-3.0 [Website](https://music.egoist.dev/)
 - [egoist/2048](https://github.com/egoist/2048) — 2048 game in MyGo native! ❓ [Website](https://2048.egoist.dev)
 
 ## Closed-source Apps by the Author
@@ -82,6 +82,7 @@ Grouped by purpose; within a group, sorted by stars then name. Entries marked �
 - [mu-zi-lee/Tangentry](https://github.com/mu-zi-lee/Tangentry) — Follow your curiosity — a local-first, multi-platform content aggregation, reading and notes app. 🍎 🪟 `146★` · MIT
 - [godwit-email/godwit](https://github.com/godwit-email/godwit) — Open-source, hackable AI email client 🍎 🪟 🐧 · Apache-2.0 [Website](https://godwit.email)
 - [oneo-me/locus](https://github.com/oneo-me/locus) — A local-first Markdown notebook for macOS. Notes stay ordinary files you can edit anywhere, with HTML canvases, read-only MCP for Agents, and a built-in terminal. 🍎 🪟 🐧 🕸 · MIT [Website](https://oneo-me.github.io/locus/)
+- [cheetahbyte/thesio](https://github.com/cheetahbyte/thesio) — Obsidian for Typst: a folder of plain `.typ` files, a live preview compiled by Typst, and one vault for notes, papers and citations. 🍎 🪟 🐧 · MIT
 - [kiwiflydream/yunji-uml](https://github.com/kiwiflydream/yunji-uml) — Native macOS editor for PlantUML, Mermaid, and Flowchart.js 🍎 🪟 🐧 · MIT
 - [sorrycc/Deckle](https://github.com/sorrycc/Deckle) — A fast, native Markdown editor for macOS 🍎 🪟 🐧 · MIT
 - [RSK21X/GoRss](https://github.com/RSK21X/GoRss) — Native RSS and Atom reader for Apple Silicon Macs, built with MyGo and Onevra 🍎
@@ -180,6 +181,7 @@ Grouped by purpose; within a group, sorted by stars then name. Entries marked �
 ## 🌐 Network · Proxy · Remote
 
 - [AstraFoundry/KumoApp](https://github.com/AstraFoundry/KumoApp) — A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI. 🍎 🕸 `295★` · AGPL-3.0 [Website](https://usekumo.app)
+- [21stware/bowel](https://github.com/21stware/bowel) — A native mihomo client for macOS: route traffic by purpose, pick exit nodes manually or by speed, inspect per-connection routing, TUN and gateway mode, six skins, plus an MCP server for Claude Code to read status and troubleshoot. 🍎 `240★` · PolyForm Noncommercial [Website](https://21stware.github.io/bowel/)
 - [lufficc/clash-traffic](https://github.com/lufficc/clash-traffic) — See where your Clash Verge traffic goes — by app, site, proxy node, subscription and device. 🍎 🪟 `42★`
 - [Licoy/CPA-Bar](https://github.com/Licoy/CPA-Bar) — Keep an eye on your CLIProxyAPI servers from the menu bar. 🍎 🪟 🐧 · AGPL-3.0
 - [xiaomai1011/GZIST-NetKeeper](https://github.com/xiaomai1011/GZIST-NetKeeper) — Campus-network auto-login keeper for GZIST: adapts to the new Dr.COM/eportal portal, auto-reconnects, autostarts, runs in background. 🍎 🪟 🐧 [Website](https://xiaomai1011.github.io/GZIST-NetKeeper/)
@@ -251,6 +253,7 @@ Grouped by purpose; within a group, sorted by stars then name. Entries marked �
 - [fazi-gondal/video](https://github.com/fazi-gondal/video) — A feature-rich video player built with the MyGo 🪟
 - [Shirolin/videopress](https://github.com/Shirolin/videopress) — A good-looking Windows video compressor, GUI + CLI. 🪟 · MIT
 - [Alpenl/wallpaper](https://github.com/Alpenl/wallpaper) — Cross-platform live wallpaper MVP: native transcoding and per-app rules on macOS; Windows/Linux take a compatibility route. 🍎 🪟 🐧
+- [xlanstar/yt-music-player](https://github.com/xlanstar/yt-music-player) — A lightweight YouTube Music desktop player for macOS, Linux and Windows: native GPU UI in pure Go, background playback, and terminal control with ytm. 🍎 🪟 🐧 · MIT
 
 
 ## ⚡ Productivity · Menu Bar · Launchers
